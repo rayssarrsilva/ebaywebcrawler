@@ -5,7 +5,6 @@ O **eBay Web Crawler** é um **robô de raspagem de dados (web scraping)** desen
 
 ## 🚀 Tecnologias Utilizadas
 - **Python 3**
-- **Selenium** (Automação de navegador)
 - **BeautifulSoup** (Extração de dados HTML)
 - **Requests** (Requisições HTTP)
 
